@@ -12,7 +12,7 @@ O objetivo do projeto é simular uma tela de login real, com design profissional
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5  
+- HTML 
 - CSS3  
 - Design Responsivo  
 - Git e GitHub  
