@@ -36,7 +36,7 @@ O objetivo do projeto é simular uma tela de login real, com design profissional
 
 ## 📸 Preview
 
-![Preview do projeto](<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/c23ac214-bda6-47ea-9a5e-cb4ffbacb17f" />
+![Preview do projeto](preview.png
 )
 
 ---
